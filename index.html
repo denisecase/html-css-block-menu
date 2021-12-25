@@ -1,0 +1,146 @@
+<!doctype html>
+
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Menu Example</title>
+  <meta name="description" content="A portable HTML5 responsive block menu.">
+  <meta name="author" content="Denise Case">
+  <link rel="icon" href="favicon.ico">
+
+<body>
+
+  <style>
+    .docset {
+      display: flex;
+      flex-direction: row;
+      flex-wrap: wrap;
+      align-content: flex-start;
+      max-height: 90vh;
+
+    }
+
+    .doc-card {
+
+
+
+      padding: 10px 20px 20px 20px;
+      width: 200px;
+      margin: 10px;
+
+      border: 1px solid #ccc;
+      background-color: whitesmoke;
+      box-shadow: 2px 2px 6px 0px rgba(0, 0, 0, 0.3);
+    }
+
+    .doc-contents {
+      border: 1px solid white;
+      background-color: white;
+      padding: 10px 30px 10px 10px;
+
+
+    }
+
+    .doc-contents-heading {
+      border: 1px solid white;
+      background-color: white;
+      color: black;
+      font-weight: bold;
+      font-size: clamp(1.4em, 1.7vw, 1.7em);
+      padding: 10px 10px 10px 10px;
+    }
+
+    .doc-contents-text {
+      border: 1px solid white;
+      background-color: white;
+      color: black;
+      font-weight: normal;
+      font-size: clamp(1em, 1.4vw, 1.4em);
+      padding: 10px 10px 10px 10px;
+    }
+
+    .doc-contents-button {
+      border: 1px solid white;
+      border-radius: 5px;
+      background-color: gray;
+      color: white;
+      font-weight: normal;
+      font-size: clamp(1em, 1.4vw, 1.4em);
+      text-align: center;
+      padding: 10px 10px 10px 10px;
+      width: 100%;
+    }
+
+    .doc-contents-button:hover {
+      background-color: #3e8e41
+    }
+  </style>
+
+  <main class="docset">
+    <div class="doc-card">
+      <div class="doc-contents">
+        <div class="doc-contents-heading"> Containers </div>
+        <div class="doc-contents-text"> This example is based on cards. Each card has contents.</div>
+        <a href="https://www.december.com/html/spec/HTML5-Cheat-Sheet.pdf" download="HTML5-Cheat-Sheet.pdf">
+          <button class="doc-contents-button">View document</button>
+        </a>
+      </div>
+    </div>
+    <div class="doc-card">
+      <div class="doc-contents">
+        <div class="doc-contents-heading">Card Contents</div>
+        <div class="doc-contents-text">Each content area has 3 parts: a heading, some text, and a button.</div>
+        <a href="https://www.december.com/html/spec/HTML5-Cheat-Sheet.pdf" download="HTML5-Cheat-Sheet.pdf">
+          <button class="doc-contents-button">View document</button>
+        </a>
+      </div>
+    </div>
+    <div class="doc-card">
+      <div class="doc-contents">
+        <div class="doc-contents-heading">HTML Elements</div>
+        <div class="doc-contents-text">Web pages are built from rectangles. There's an implied border for every HTML
+          element.</div>
+        <a href="https://www.december.com/html/spec/HTML5-Cheat-Sheet.pdf" download="HTML5-Cheat-Sheet.pdf">
+          <button class="doc-contents-button">View document</button>
+        </a>
+      </div>
+    </div>
+    <div class="doc-card">
+      <div class="doc-contents">
+        <div class="doc-contents-heading">Margin and Padding</div>
+        <div class="doc-contents-text">Margin is space outside the border like a safety margin. Padding is inside just
+          like
+          mailing a box.</div>
+        <a href="https://www.december.com/html/spec/HTML5-Cheat-Sheet.pdf" download="HTML5-Cheat-Sheet.pdf">
+          <button class="doc-contents-button">View document</button>
+        </a>
+      </div>
+    </div>
+    <div class="doc-card">
+      <div class="doc-contents">
+        <div class="doc-contents-heading">Change colors</div>
+        <div class="doc-contents-text">Change the CSS colors temporarily to discover borders and the different
+          rectangular areas on the page. </div>
+        <a href="https://www.december.com/html/spec/HTML5-Cheat-Sheet.pdf" download="HTML5-Cheat-Sheet.pdf">
+          <button class="doc-contents-button">View document</button>
+        </a>
+      </div>
+    </div>
+    <div class="doc-card">
+      <div class="doc-contents">
+        <div class="doc-contents-heading">Ready for More</div>
+        <div class="doc-contents-text">Here's our last and most special offering in this category.</div>
+        <a href="https://www.december.com/html/spec/HTML5-Cheat-Sheet.pdf" download="HTML5-Cheat-Sheet.pdf">
+          <button class="doc-contents-button">View document</button>
+        </a>
+      </div>
+    </div>
+  </main>
+
+
+
+</body>
+
+</html>
