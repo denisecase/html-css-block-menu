@@ -22,17 +22,18 @@
 
     .doc-card {
       padding: 10px 20px 20px 20px;
-      width: 200px;
+      width: 100px;
       margin: 10px;
-      border: 1px solid #ccc;
-      background-color: whitesmoke;
+      border: 1px solid rgb(66, 245, 75);
+      border-radius: 10px;
+      background-color: white;
       box-shadow: 2px 2px 6px 0px rgba(0, 0, 0, 0.3);
     }
 
     .doc-contents {
       border: 1px solid white;
       background-color: white;
-      padding: 10px 30px 10px 10px;
+      padding: 3px 3px 3px 3px;
     }
 
     .doc-contents-heading {
@@ -41,7 +42,7 @@
       color: black;
       font-weight: bold;
       font-size: clamp(1.4em, 1.7vw, 1.7em);
-      padding: 10px 10px 10px 10px;
+      padding: 3px 3px 3px 3px;
     }
 
     .doc-contents-text {
@@ -49,19 +50,19 @@
       background-color: white;
       color: black;
       font-weight: normal;
-      font-size: clamp(1em, 1.4vw, 1.4em);
-      padding: 10px 10px 10px 10px;
+      font-size: clamp(1em, 1.2vw, 1.2em);
+      padding: 3px 3px 3px 3px;
     }
 
     .doc-contents-button {
       border: 1px solid white;
       border-radius: 5px;
-      background-color: gray;
-      color: white;
+      background-color: whitesmoke;
+      color: black;
       font-weight: normal;
-      font-size: clamp(1em, 1.4vw, 1.4em);
+      font-size: clamp(1em, 1.2vw, 1.2em);
       text-align: center;
-      padding: 10px 10px 10px 10px;
+      padding: 3px 3px 3px 3px;
       width: 100%;
     }
 
@@ -74,74 +75,61 @@
 
     <div class="doc-card">
       <div class="doc-contents">
-        <div class="doc-contents-heading"> Containers </div>
-        <div class="doc-contents-text"> This example is based on cards. Each card has contents.</div>
+        <div class="doc-contents-text">Cards</div>
         <a href="https://www.december.com/html/spec/HTML5-Cheat-Sheet.pdf">
-          <button class="doc-contents-button">View document</button>
+          <button class="doc-contents-button">HTML5-Cheat-Sheet.pdf</button>
         </a>
       </div>
     </div>
 
     <div class="doc-card">
       <div class="doc-contents">
-        <div class="doc-contents-heading">Card Contents</div>
-        <div class="doc-contents-text">Each content area has 3 parts: a heading, some text, and a button.</div>
+        <div class="doc-contents-text">Cards</div>
         <a href="https://www.december.com/html/spec/HTML5-Cheat-Sheet.pdf">
-          <button class="doc-contents-button">View document</button>
+          <button class="doc-contents-button">My Favorite HTML5-Cheat-Sheet.pdf</button>
         </a>
       </div>
     </div>
 
     <div class="doc-card">
       <div class="doc-contents">
-        <div class="doc-contents-heading">HTML Elements</div>
-        <div class="doc-contents-text">Web pages are built from rectangles. There's an implied border for every HTML
-          element.</div>
+        <div class="doc-contents-text">Cards</div>
         <a href="https://www.december.com/html/spec/HTML5-Cheat-Sheet.pdf">
-          <button class="doc-contents-button">View document</button>
+          <button class="doc-contents-button">Second Favorite HTML5-Cheat-Sheet.pdf</button>
         </a>
       </div>
     </div>
 
     <div class="doc-card">
       <div class="doc-contents">
-        <div class="doc-contents-heading">Margin and Padding</div>
-        <div class="doc-contents-text">Margin is space outside the border like a safety margin. Padding is inside just
-          like
-          mailing a box.</div>
+        <div class="doc-contents-text">Files</div>
         <a href="https://www.december.com/html/spec/HTML5-Cheat-Sheet.pdf">
-          <button class="doc-contents-button">View document</button>
+          <button class="doc-contents-button">Yet another version of HTML5-Cheat-Sheet.pdf</button>
         </a>
       </div>
     </div>
 
     <div class="doc-card">
       <div class="doc-contents">
-        <div class="doc-contents-heading">Change colors</div>
-        <div class="doc-contents-text">Change the CSS colors temporarily to discover borders and the different
-          rectangular areas on the page. </div>
+        <div class="doc-contents-text">Files </div>
         <a href="https://www.december.com/html/spec/HTML5-Cheat-Sheet.pdf">
-          <button class="doc-contents-button">View document</button>
+          <button class="doc-contents-button">Extra HTML5-Cheat-Sheet.pdf</button>
         </a>
       </div>
     </div>
 
     <div class="doc-card">
       <div class="doc-contents">
-        <div class="doc-contents-heading">View or Download</div>
-        <div class="doc-contents-text">If we set the download attribute, documents can be directly downloaded instead of
-          viewed.</div>
+        <div class="doc-contents-text">Files</div>
         <a href="https://www.december.com/html/spec/HTML5-Cheat-Sheet.pdf" download="HTML5-Cheat-Sheet.pdf">
-          <button class="doc-contents-button">View document</button>
+          <button class="doc-contents-button">↓ Download HTML5-Cheat-Sheet.pdf</button>
         </a>
       </div>
     </div>
 
     <div class="doc-card">
       <div class="doc-contents">
-        <div class="doc-contents-heading">Example index.html</div>
-        <div class="doc-contents-text">This menu can be customized and added to an existing web page. Some CSS styles
-          may need tuning. </div>
+        <div class="doc-contents-text">Reference </div>
         <a href="https://github.com/denisecase/html-css-block-menu">
           <button class="doc-contents-button">View repo</button>
         </a>
@@ -150,10 +138,9 @@
 
     <div class="doc-card">
       <div class="doc-contents">
-        <div class="doc-contents-heading">Concise</div>
-        <div class="doc-contents-text">See a more concise version. </div>
-        <a href="./concise.html">
-          <button class="doc-contents-button">concise.html</button>
+        <div class="doc-contents-text">Home </div>
+        <a href="./index.html">
+          <button class="doc-contents-button">Return to index.html</button>
         </a>
       </div>
     </div>
