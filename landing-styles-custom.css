@@ -1,0 +1,15 @@
+*{
+  text-transform: none;
+}
+
+.move-down-1 {
+  padding-top: 1.5em;
+}
+
+.splash-description-custom {
+  color: white;
+}
+
+.splash-subhead {
+  font-weight: bold;
+}

@@ -1,0 +1,97 @@
+﻿ThingGUID,Title,SubTitle,Description,URL,Weight
+B88145D2-4636-82AA-5D36-B87BF8F817FD,HTML,Basic web foundation,"Master HTML 5 - semantic tags, geolocation, audio, video, more.",https://developer.mozilla.org/en-US/docs/Web/HTML,1000
+7507CE6B-5607-5F5D-6EA5-BE249F30816C,CSS,Basic web foundation,"Master CSS 3 - flexbox, flexgrid, variables and more.",https://developer.mozilla.org/en-US/docs/Web/CSS,990
+1C6D0AAF-28C9-5EA9-30F5-43651D0F50AC,JavaScript,Basic web foundation,Master JavaScript - the language of the web. Lowest barrier to entry of any programming language. Any browser and the ability to edit and save text files. ,https://developer.mozilla.org/en-US/docs/Web/JavaScript,980
+AE4E9367-1220-2A8E-4D24-3AF69B4E29DA,Node.js,JavaScript for the backend,"If you know JavaScript for the front-end, why not build a backend as well. Node.js is browserless JavaScript. You'll have to install it. ",https://nodejs.org/,970
+C56347EF-4AE5-9DA4-800A-709DF2F91086,Deno.js,JavaScript for the backend,Deno is the updated version of Node.js - by the creator of Node. ,https://deno.land/,960
+C39A228A-943B-A3F3-9A34-6E594CA64116,Responsive Design,Auto adjust to any screen size,"Design for mobile first, and then automatically flow for larger screens. ",https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design,950
+55EDAA50-2F8F-82E9-8197-3F381A277001,CSS:Bootstrap,Auto adjust to any screen size,Widely used set of classes and behaviors for responsive design. ,https://getbootstrap.com/,940
+534A1F70-582E-A087-9A06-8F2A01908C44,CSS:Pure,Yahoo's simple CSS solution,"Very small CSS library. No build tools required, easy to get started with a nice layout. ",https://purecss.io/,930
+AB3AABD6-95F6-0DE2-7D23-15E577E51EB4,CSS:Flexbox,Flexible 1D CSS layout model,Important built-in CSS layout mode for arranging things in a container in one dimension. ,https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox,920
+84E0D781-4055-2743-1C77-DFD4AC353A11,CSS:Grid,Flexible 2D CSS layout model,Important built-in CSS layout mode for arranging things in a container in two dimensions: rows and columns.,https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grids,910
+38CAB0C2-3E75-3ACC-4871-4897C5FD636A,Web Components,Reuse custom elements,Reuse parts of a web page with no build tool and no framework. It's really easy. ,https://developer.mozilla.org/en-US/docs/Web/Web_Components,900
+E869B8AA-8230-7E8F-805F-484084E9A6F5,Git,Distributed version control,Master this widely-used system for managing evolving project files.,https://git-scm.com/,890
+9B694C42-6474-1978-9530-4C97CD070A16,GitHub,Free hosting for code projects,Master this popular place to store and share code for free. ,https://github.com/,880
+E0A8B84D-6C2F-311C-38B0-3E089C462E8B,Bitbucket,Free hosting for code projects,Another popular place to store and share code for free. ,https://bitbucket.org/,870
+67211A84-2750-80F4-8905-D4E66BA05F62,PowerShell,Cross-platform shell,"Master this popular, multiplatform shell for running commands without a GUI. ",https://docs.microsoft.com/en-us/powershell/?view=powershell-7.2,860
+ACC2675D-0ECE-5979-7B64-50A6E91165BA,Bash,Linux shell,"Know this poplar Linux-based shell. On Windows, Git Bash is a great place to start, then add Windows Subsystem for Linux. ",https://developer.ibm.com/tutorials/l-lpic1-103-1/,850
+A124D52A-4B16-50DA-77E9-90028E563107,Win: Chocolatey,Windows package manager,Established Windows Package Manager - lots of packages ready to go. ,https://chocolatey.org/,840
+3379C745-8771-78E6-1AE3-19FD9B435194,Win: TortoiseGit,Super easy Git integration on Windows,Integrates Git into the Windows File Explorer. Makes 90% of daily activities super easy - do the rest in Git Bash. ,https://tortoisegit.org/,830
+BA46C400-4D9A-2D2F-7E65-B29F7D45201F,Win: Scoop,Windows package manager,Newer Windows Package Manager - lots of packages getting added. ,https://scoop.sh/,820
+810A1AE0-4123-8B1C-2567-673AD4618482,Win: WinGet,Built-in Windows package manager,Built-in Windows Package Manager - a bit more complicated syntax than choco or scoop. ,https://docs.microsoft.com/en-us/windows/package-manager/winget/,810
+D28B57B9-7839-5159-367D-B001A9C90E26,HTTP,Calling functions on the web,Understand HTTP - this is a key protocol for communicating on the web.,https://developer.mozilla.org/en-US/docs/Web/HTTP,800
+4963EF4D-363C-88FF-342E-221A0CF408BD,HTTPS,Secure HTTP,Encrypted HTTP for exchanging data more securely,https://developer.mozilla.org/en-US/docs/Web/Security,790
+BF4B0CEC-901A-1287-5015-BE7AF4744222,HTTP Resource,The data accessible via an HTTP request,Understand web resources - the content we interact with via endpoints.,"https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Identifying_resources_on_the_Web#:~:text=The%20target%20of%20an%20HTTP,throughout%20HTTP%20for%20identifying%20resources.",780
+243522C9-4A65-A1F5-8BB0-C80173ECA4B9,HTTP Route,Just the path (doesn't include the verb),"Understand how endpoints are defined by a route, or path and an HTTP verb.",https://www.moesif.com/blog/technical/api-design/REST-API-Design-Best-Practices-for-Sub-and-Nested-Resources/,770
+8CDC0078-3B4C-2FD4-4C2C-ED3A4F091CC1,HTTP Verbs (Methods),"GET, PUT, POST, DELETE","Understand how endpoints are defined by a route, or path and an HTTP verb.",https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods,760
+A8F518EB-136A-2F21-5A99-F8E345182610,HTTP Endpoint,Route + Verb,Example GET + /api/v2/companies/5/employees/3,https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/,750
+8FFD9FCA-2FAF-2F5C-4EBC-A8C9DE340594,HTTP Request,Well-defined client request ,What a client uses to make a RESTful request.,https://developer.mozilla.org/en-US/docs/Web/HTTP/Messages,740
+235473F2-2E8A-590B-7988-5C6F7C6B15E3,HTTP Response,Well-defined server response ,What a server uses to reply to a RESTful request.,https://developer.mozilla.org/en-US/docs/Web/HTTP/Messages,730
+C90B7D22-2800-3B28-868E-5860E7F86128,API Definition - Tables,API Summary table,Summarize your API (less detail than Swagger),https://mfadhel.com/API_Tables/,720
+8A067A70-6BE1-02C0-2EC3-AA9267C29B1F,API Definition - Detailed,API Details - autogenerated by tools. ,See the example from Swagger. Autogenerated from API spec. ,https://petstore3.swagger.io/,710
+B130F581-1B09-51FA-670C-FAA6E097796E,Serverless,Just an endpoint. Functions as a service. ,"Instead of a monolithic app, break it into microservices.",https://aws.amazon.com/blogs/architecture/ten-things-serverless-architects-should-know/,700
+EE7E89CB-2894-39E9-2A38-73DEC2F07408,Deploy: Heroku,"Easy, free hosting for all major langugaes. ","Platform as a service - easy to learn deployment, devops, regardless of language.",https://www.heroku.com/,690
+CCAAF524-32D2-4541-1C4B-BD5F161849DD,Deploy: Begin.com,"Easy, free hosting for Node and Deno apps. ",,https://begin.com/,680
+7E99041E-92AB-8957-3C36-94C47E7C50AB,Deploy: AWS Lambda,Deploy a function.,Popular way to create apps for Alexa and more. ,https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=tier%23always-free&awsf.Free%20Tier%20Categories=*all&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all,670
+2A9ED9A3-9B87-2AA5-15ED-FDE252781E54,Language: Go,My new favorite language,"Lightning fast, modern C-like language. ",https://go.dev/,660
+5DC605DF-5BF2-4C0B-7869-84C588323180,Language: Java,Widely used on the backend,Try it with Spring and Spring Boot. ,https://adoptium.net/,650
+9B92F701-73DD-8680-96D4-9FBD8C136EBA,Language: C#,A joy to work with,"Visual Studio makes the magic happen, but it is very large. ",https://docs.microsoft.com/en-us/dotnet/csharp/,640
+B97FAE76-A41D-0487-9298-B129B31561C7,Language: Python,Scripting for big data and the web,Try it with Flask for quick server side apps. ,https://www.python.org/,630
+90896DC6-7FE3-9242-676B-1519F5E545C8,Python: Flask,Super easy server-side,Full stack Python. Easy to get started. ,https://www.fullstackpython.com/flask.html,620
+6743E3D1-9BC2-09C2-7FBA-75301E9E6D0F,Java: Spring,Powerful server-side,Start with Spring Boot - the opinionated way to proceed.,https://spring.io/projects/spring-boot,610
+808E1F1F-25BA-1264-2DC7-4F1DBF995687,C#:DotNet,Powerful server-side,Free cross-platform development with dotnet core.,https://dotnet.microsoft.com/en-us/,600
+9F0B69DD-0FA3-7744-656C-5BF87B00A085,Ruby:Rails,Classic MVC for CRUD,Still going and the inspiration behind a lot of CRUD frameworks. ,https://rubyonrails.org/,590
+B20C3E4D-2537-46C5-5562-145CCE0D7AF2,Markdown,Famous for READMEs and Jupyter.,Master this easy markup language. ,https://github.github.com/gfm/,580
+38BC9E28-773A-8322-190B-2B4FB2351E5C,GitHub Pages,"Free, easy client-side deploy",Super easy way to get your client-side apps on the web for free. ,https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site,570
+82E0365D-8DFB-3528-9364-D6395BFB40FD,Hugo Static Site Generator,Host a blog in about an Hour,"Speed of Go, ease of Markdown. ",https://denisecase.github.io/notes/,560
+9CC88635-6972-2395-7F54-E05E62F32E6C,IDE: VS Code,"Light, fast code editor",Remember to enable auto-save. ,https://code.visualstudio.com/,550
+415FB52E-00AB-9708-65D1-77D8F009277D,Data: JSON,Basic data format,"Master JSON, convert easily with online tools",https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON,540
+70D64000-0020-5784-70AE-5131CB2F08E2,Data: YAML,Basic data format,"Master YAML, convert easily with online tools",https://yaml.org/,530
+723AFC79-1620-8801-193F-F874600B8120,Data: CSV,Basic data format,"Master CSV, convert easily with online tools",https://onlinecsvtools.com/convert-csv-to-yaml,520
+DBBD5E56-41A8-3D4B-71F1-1630EE592504,SQL,Still the key query language,"Master SQL for big data, small data, structured data ",https://www.codecademy.com/learn/learn-sql/modules/learn-sql-queries/cheatsheet,510
+58C78C87-8D91-51D0-5994-7C84F5C36907,Heroku: Postgres,Server-side deploys for free,Get started with free relational data store,https://www.heroku.com/postgres,500
+E180C141-013C-8E83-8EE3-7EBEC8F8074F,Atlas: MongoDB,Free data store,Easy and free central data store while learning. ,https://www.mongodb.com/atlas/database,490
+2A33F69C-6AE9-4E58-41E1-CF4FB006A623,Jupyter: Databricks,Free Jupyter notebooks,Easy and free Jupyter notebooks while learning. ,https://community.cloud.databricks.com/,480
+11E677EB-53ED-8BD5-57DA-75E929332FA7,Jupyter,Programming & reporting together,Programming and presentation together. ,https://jupyter.org/,470
+8F31C241-1C12-9EB9-50AF-5392C9CB8E22,BaaS: Firebase,Free backend for mobile and web,Offload the whole back end to this easy backend-as-a-service option.,https://firebase.google.com/,460
+265BF3A3-2699-0AD8-02A4-1B3A176F23F8,Auth0: Authentication Service,Free - with great examples,"Pronounced ""Auth-Zero"" - comes with excellent examples. ",https://auth0.com/,450
+94056E52-026E-7F64-93F8-A9CCD8946164,CSS: Flutter,Design for mobile and web,Build apps for any screen. ,https://flutter.dev/,440
+EBCA63BE-74EF-314E-7D7F-D0F96FBE5624,API Spec: Rapidoc,Generate docs from your API spec,Nice-looking API doc generator (alternative to Swagger).,https://mrin9.github.io/RapiDoc/,430
+43C7766C-29B5-9F01-3C12-9E5E728B01EB,API Spec: Swagger,Tools for working with your API spec,Swagger provides tools built around the OpenAPI spec.,https://swagger.io/,420
+6AE35D16-A23E-1734-2627-40F7836918A6,API Spec: OpenAPI spec,Defines the data format for API specs,Specify this critical part of your application early. ,https://swagger.io/specification/,410
+653843D9-50B3-63DC-3D6E-CE2EFDA58741,API Util: Postman,Popular API tool,Use Postman to build and test APIs. Write a collection for your app. ,https://www.postman.com/,400
+F879C250-4194-1D8C-42B6-2566E35A7441,DevOps,New methodology,Shortening the time from development to production and use.,https://www.ibm.com/cloud/learn/devops-a-complete-guide,390
+EB3E3300-0E8A-8F33-21F2-D25110E7280E,DevOps: CI vs CD,Understand CI and CD,Understand these terms and the popular tools associated with them.,https://www.atlassian.com/continuous-delivery/principles/continuous-integration-vs-delivery-vs-deployment,380
+424CB567-2E69-5050-256E-93B442780D35,Big Data: Apache Beam,Big data integrated platform,Unified programming model for big data and distributed data processing. When one computer isn't enough. ,https://beam.apache.org/,370
+18E8201F-8811-17AD-1C42-6642F767545F,Big Data: Apache Spark,Big data distributed processing system,"Single code base for batch and stream in memory (fast!) processing with Python, SQL, Scala, Java, R.",https://spark.apache.org/,360
+AA91665F-5F68-149D-8FD7-5D2A2F632DCA,Big Data: Flink,Big data distributed processing system,Pure streaming approach to batch and stream in memory (fast!) processing with Java and Scala.,https://flink.apache.org/,350
+D9943163-A22A-4AEE-88EF-6ED055567164,Big Data: Sources,Raw data coming in,"Explore public datasets, see also Kaggle,  and data.gov.",https://github.com/awesomedata/awesome-public-datasets,340
+F31A26CE-8F63-27FC-A63B-D46BF27C201B,Big Data: Sinks,Information output,"From sources, through processing with transforms, and finally writing into sinks for exploration. ",https://sookocheff.com/post/beam/writing-a-beam-sink/,330
+7BA04F6D-2B14-4906-46CC-20EBC2DEA28E,Big Data Processing,Batch and streaming,"Element processing, e.g., ParDo, map, flatmap and by-key (and by-window) aggregation, e.g, group by key, combine, reduce.",https://www.nexsoftsys.com/articles/big-data-processing-with-apache-beam.html,320
+22FE1CB8-1C16-2340-899F-422F401D5AEB,Big Data: Apache Kafka,Messaging system ,High performance message streaming.,https://kafka.apache.org/,310
+EA5F1408-1BCD-648D-9ECE-8CEE985E7D98,Beam pipelines in Java,Write pipelines with Java,Write pipelines using the Java SDK.,https://beam.apache.org/get-started/quickstart-java/,300
+10C57F28-066A-1BD0-2FCD-8E2FBE788962,Beam pipelines in Python,Write pipelines with Python,Write pipelines using the Python SDK.,https://beam.apache.org/get-started/quickstart-py,290
+7F43A445-1819-6D4E-00B2-C0C00E4A6205,Beam pipelines in Go,Write pipelines with Go,Write pipelines using the Go SDK. Do this one last. :),https://beam.apache.org/get-started/quickstart-go,280
+76B8510B-8DC6-5E4A-7C38-EF1BAD41697D,CI: Continous Integration,"CircleCI, TravisCI, GitHub Actions",Integrate everyone's changes into a single project safely.,https://www.atlassian.com/continuous-delivery/continuous-integration,270
+BD0F6B6B-8501-75B5-08CF-CEAD234E0DFC,CD: Continous Delivery,Delivery or deployment?,Release quality products frequently and predictably.,https://www.atlassian.com/continuous-delivery,260
+C358323C-7881-41CC-49E9-B8FB45041818,CD: Continous Deployment,Delivery or deployment?,Software release process that uses automated testing to validate software. Be careful when making updates automatically go live. ,https://www.atlassian.com/continuous-delivery/continuous-deployment,250
+25A3262D-2F42-20AE-3A4B-5D6B398372DB,Envs: Dev-Test-Stage-Prod,Understand enviroments,Set up project flow with a series of environments and automation.,https://www.heroku.com/flow,240
+25D68E47-2F42-389B-2E4D-4E4767F06472,Git: Semantic Versioning,Major.Minor.Patch,"Breaking changes are major, new features are minor, bug fixes are patches.",https://medium.com/agoda-engineering/automating-versioning-and-releases-using-semantic-release-6ed355ede742,230
+53A5A436-2D9F-8589-1BF0-29D3DB3B9700,Jupyter: Google Colab,Try Jupyter in CoLab,Try the tutorials and existing notebooks to get started. ,https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb,220
+0B246AC5-193B-6FAD-6146-C35683029E8C,Jupyter: Kaggle Kernels,Try Jupyter in Kaggle,Operate on Kaggle datasets with notebooks in the browser.,https://www.kaggle.com/code,210
+AAFB6F93-8964-A006-1DB7-4208F9A04BCC,Jupyter: Binder,Run notebooks directly from GitHub,Run your GitHub notebooks in the browser. Free and fun. ,https://mybinder.org/,200
+3AE99989-5FFD-342A-94D4-A3106DF456CB,Docker containers,Lighter than virtual machines,"Lighter than a virtual machine, config an environment with YAML.",https://www.docker.com/resources/what-container,190
+08C5A8EC-A492-13BA-06FC-27CDD04D5A27,Docker Swarm vs Kubernetes,Orchestration platforms ,"Kubernetes and containers changed app development. These are frameworks for managing multiple containers also called ""orchestration"". See also K3s and others.",https://stackshare.io/stackups/docker-swarm-vs-kubernetes,180
+FE1AF9FF-880C-15DD-552F-A2644CD106AB,Kubernetes,Manage containers,"Kubernetes, also known as K8s, is an open-source system for automating deployment, scaling, and management of containerized applications.",https://thenewstack.io/5-cloud-native-trends-to-watch-out-for-in-2022/,170
+BF7B1932-1241-0219-4522-5C1EA4EE56E1,Kubernetes local: Minikube,Run Kubernetes on your machine,"Lots of ways to run Kubernetes locally: K3d, K3s, Kind, MicroK8s",https://faun.pub/k3d-vs-k3s-vs-kind-vs-microk8s-vs-minikube-6949ebb93d18,160
+998FA79B-6957-51E4-34B5-171024CC705D,SPA: Angular,Try MVC client-side framework,Uses Typescript and MVC for large apps,https://angular.io/,150
+F205E168-33F2-26C6-9CBF-6D5C79150A00,SPA: React,Try this component-based framework,"Popular - lots of devs, lots of jobs",https://reactjs.org/,140
+1F988B41-1A84-56EC-07F7-3413BF9C918F,SPA: Vue,Try this compoent-based framework,The new kid on the block. Easy to get started.,https://vuejs.org/,130
+06C6BD1C-A17A-2DF7-2BF7-D089A71E02E4,SPA: Svelte,Try this approach,New approach. Compiled. Variables in HTML. Scoped CSS. Great website.,https://svelte.dev/,120
+A752955E-4765-11C0-7B67-3E0F6DE941A2,SPA: Compare Frameworks,Know how to choose.,Lots of options. How do you decide? Check out stackshare.io/languages-and-frameworks.,"https://trends.google.com/trends/explore?q=react,angular,vue,svelte",110
+B53CBF5A-231A-5D7E-04E5-401ACC670D36,Quantum Computing,Explore some free options. ,"When bits aren't enough, use cubits. (Vectors instead of 1,0).",https://www.ibm.com/quantum-computing/developers/,100
+31B7A767-24F9-96E2-295F-2AD9A5D9705F,Methodology: API First,Postman Collections and Swagger,Decide the API first and then build out both sides.,https://swagger.io/resources/articles/adopting-an-api-first-approach/,90
+4E78E016-40C1-1A04-9DFF-00176D1938FB,Postman Collections,Organize API tests,Use folders to organize APIS,https://www.postman.com/collection/,80
+D42B8477-0F08-2CCB-126C-8AB531168ED0,IDaaS: Auth0,Bought by Okta for 6.5B,"Off-load the user authentication and authorization to a service. Great docs and examples. Seems to beat OneLogin, KeyCloak, JumpCloud, Stormpath (discontinued). ",https://auth0.com/,70
+9AAAE996-71C4-6A5F-4317-5083FA62160F,IDaaS: Okta,Bought Auth0,"Expensive, non-developer approach. Try Auth0. ",https://www.okta.com/,60
+97B2E504-1D11-91F7-8647-7F83212828BF,GUID,Unique ID 128 bit string,"""CONCATENATE(DEC2HEX(RANDBETWEEN(0,4294967295),8),""-"",DEC2HEX(RANDBETWEEN(0,42949),4),""-"",DEC2HEX(RANDBETWEEN(0,42949),4),""-"",DEC2HEX(RANDBETWEEN(0,42949),4),""-"",DEC2HEX(RANDBETWEEN(0,4294967295),8),DEC2HEX(RANDBETWEEN(0,42949),4))""",https://xlttn.com/formulas/formula-to-create-a-guid/,50
